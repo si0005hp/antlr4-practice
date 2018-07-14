@@ -1,9 +1,11 @@
-package com.example;
+package com.example.calc;
 
 import static org.hamcrest.CoreMatchers.is;
 import static org.junit.Assert.assertThat;
 
 import org.junit.Test;
+
+import com.example.calc.Calc;
 
 public class CalcTest {
     @Test
